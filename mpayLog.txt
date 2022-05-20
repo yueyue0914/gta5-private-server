@@ -1,0 +1,2 @@
+Wed Aug 28 23:18:49 2019 => 3 mobile paid 2 the amount of 100, user bank post-payment for 3 equals $119474 and for 3 equals $274254
+Wed Aug 28 23:19:12 2019 => 3 mobile paid 2 the amount of 9999, user bank post-payment for 3 equals $109475 and for 3 equals $284253
